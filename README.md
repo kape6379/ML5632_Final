@@ -13,3 +13,5 @@ I am using hierarchical clustering due to the fact that there is a lot of room f
 ## Kmeans Clustering
 
  I will then compare our hierarchical model to a kmeans model in order to determine if there is a clustering method better suited for this issue. 
+
+Being able to clearly distinguish similarities between symptoms of patients can lead to life-saving care. I aim to see if clustering is a good real world approach for hospitals to provide information to medical professionals to make informed decisions. Especially as we've seen unprecedented times and overwhelmed healthcare institutions this would be a crucial implementation to modernize the healthcare system.
